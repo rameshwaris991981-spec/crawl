@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Peter Cat",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Bar & grill",
+    "all_categories": "Bar & grill, Kebab shop, North Indian restaurant, Restaurant",
+    "pincode": "757107",
+    "circle": "Odisha Circle",
+    "region": "Bhubaneswar HQ Region",
+    "division": "Mayurbhanj Division",
+    "major_offices": "Laxmiposi S.O, Bankisole B.O, Bhudrubani B.O",
+    "phone_number": "+91 33 2229 8841",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Stephen Court Building, 18 A, Park St, opposite KFC Restaurant, Park Street area, Kolkata, West Bengal 700071",
+    "area": "Park Street area",
+    "latitude": 22.552443699999998,
+    "longitude": 88.3525942,
+    "place_id": "ChIJHQVk-A93AjoRR4ecYP0gZIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQVk-A93AjoRR4ecYP0gZIo",
+    "part_id": "part_345",
+    "crawled_at": "2026-09-20 20:42:29"
+  }
+]
