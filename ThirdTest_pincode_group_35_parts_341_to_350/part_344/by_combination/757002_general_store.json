@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dev Grocery Store",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "757002",
+    "circle": "Odisha Circle",
+    "region": "Bhubaneswar HQ Region",
+    "division": "Mayurbhanj Division",
+    "major_offices": "Bhanjpur S.O, Belgadia S.O, Bijay Ramchandrapur S.O",
+    "phone_number": "+91 95836 82426",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4HQR+7X7, Simila Road Krushna Chandra Pur, Baripada, Odisha 757032",
+    "area": "757002",
+    "latitude": 22.1381648,
+    "longitude": 86.5924288,
+    "place_id": "ChIJNUtVJW-_HToRAAAA0MYiQgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUtVJW-_HToRAAAA0MYiQgM",
+    "part_id": "part_344",
+    "crawled_at": "2026-09-20 20:30:55"
+  }
+]

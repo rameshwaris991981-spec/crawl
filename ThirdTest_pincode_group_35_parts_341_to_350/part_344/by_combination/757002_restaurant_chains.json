@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Pizza Stop",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Cafe, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "757002",
+    "circle": "Odisha Circle",
+    "region": "Bhubaneswar HQ Region",
+    "division": "Mayurbhanj Division",
+    "major_offices": "Bhanjpur S.O, Belgadia S.O, Bijay Ramchandrapur S.O",
+    "phone_number": "+91 70772 85028",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "WPMG+62R, College Rd, Badabazar, Deulasahi, Bhanjpur, Baripada, Odisha 757001",
+    "area": "Badabazar, Deulasahi, Bhanjpur",
+    "latitude": 21.9331083,
+    "longitude": 86.7250095,
+    "place_id": "ChIJK6PjE-2xHToRkLrfKEwjgYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6PjE-2xHToRkLrfKEwjgYk",
+    "part_id": "part_344",
+    "crawled_at": "2026-09-20 20:31:00"
+  }
+]
