@@ -46,5 +46,29 @@
     "part_id": "part_343",
     "crawled_at": "2026-09-20 20:18:07",
     "s_no": 4005
+  },
+  {
+    "business_name": "SPA consultants",
+    "search_category": "Spa Consultants",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "756056",
+    "circle": "Odisha Circle",
+    "region": "Bhubaneswar HQ Region",
+    "division": "Balasore Division",
+    "major_offices": "Kuruda S.O, Balia Farm B.O, Chhanapur B.O",
+    "phone_number": "+91 33 2486 4474",
+    "website": "http://spaconsultant.co.in/contact_us.aspx",
+    "rating": null,
+    "reviews_count": null,
+    "address": "53, Justice Chandra Madhab Rd, Sreepally, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Sreepally, Bhowanipore",
+    "latitude": 22.5359473,
+    "longitude": 88.3492242,
+    "place_id": "ChIJoSTyODx3AjoRKYkhvQzHxuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSTyODx3AjoRKYkhvQzHxuk",
+    "part_id": "part_343",
+    "crawled_at": "2026-09-20 20:25:22",
+    "s_no": 25294
   }
 ]

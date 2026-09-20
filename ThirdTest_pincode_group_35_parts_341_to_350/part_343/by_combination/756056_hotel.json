@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Cloud 9",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "756056",
+    "circle": "Odisha Circle",
+    "region": "Bhubaneswar HQ Region",
+    "division": "Balasore Division",
+    "major_offices": "Kuruda S.O, Balia Farm B.O, Chhanapur B.O",
+    "phone_number": "+91 70083 06144",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "OT Rd, Asha Nagar, Balasore, Meghadambru, Odisha 756056",
+    "area": "Asha Nagar",
+    "latitude": 21.4788267,
+    "longitude": 86.9020725,
+    "place_id": "ChIJ83gx2npfHDoRr1tYhog5TS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83gx2npfHDoRr1tYhog5TS4",
+    "part_id": "part_343",
+    "crawled_at": "2026-09-20 20:25:23"
+  }
+]
