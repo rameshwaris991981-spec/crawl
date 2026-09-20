@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Panda Grocery Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "761151",
+    "circle": "Odisha circle",
+    "region": "Berhampur Region",
+    "division": "Aska Division",
+    "major_offices": "Badabaraba B.O, Asura Bandha S.O, Badagochha B.O",
+    "phone_number": "+91 93483 77123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Ganni Chowk, Surada, Odisha 761108",
+    "area": "Ganni Chowk",
+    "latitude": 19.761269499999997,
+    "longitude": 84.42856069999999,
+    "place_id": "ChIJuwG1nDPbIjoRSHmQIc82oDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwG1nDPbIjoRSHmQIc82oDA",
+    "part_id": "part_349",
+    "crawled_at": "2026-09-20 20:30:51"
+  }
+]
