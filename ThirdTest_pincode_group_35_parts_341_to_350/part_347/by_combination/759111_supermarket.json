@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Grocery",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "759111",
+    "circle": "Odisha Circle",
+    "region": "Sambalpur Region",
+    "division": "Dhenkanal Division",
+    "major_offices": "Jindal Nagar S.O",
+    "phone_number": "+91 88958 71307",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sahu Building, Bazarpada Rd, Angul, Bantala, Odisha 759129",
+    "area": "759111",
+    "latitude": 20.7491163,
+    "longitude": 85.0652429,
+    "place_id": "ChIJBY1rX3OlGDoRx0xPjzhimE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBY1rX3OlGDoRx0xPjzhimE8",
+    "part_id": "part_347",
+    "crawled_at": "2026-09-20 20:25:03"
+  }
+]
