@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Arun Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "762104",
+    "circle": "Odisha Circle",
+    "region": "Berhampur Region",
+    "division": "Phulbani Division",
+    "major_offices": "Daringbadiso S.O, Badabanga B.O, Badangia B.O",
+    "phone_number": "+91 90749 02283",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arun Store, Bhramarabadi, Daringbadi, Odisha 762104",
+    "area": "762104",
+    "latitude": 19.904204099999998,
+    "longitude": 84.1203369,
+    "place_id": "ChIJr6Nmd7AZIzoR9g1mqZS0rgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6Nmd7AZIzoR9g1mqZS0rgc",
+    "part_id": "part_350",
+    "crawled_at": "2026-09-20 20:27:14"
+  }
+]
