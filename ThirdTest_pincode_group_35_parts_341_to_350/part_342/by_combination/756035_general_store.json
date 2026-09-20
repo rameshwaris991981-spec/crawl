@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Bikash grocery store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "756035",
+    "circle": "Odisha Circle",
+    "region": "Bhubaneswar HQ Region",
+    "division": "Balasore Division",
+    "major_offices": "Kamarda S.O, Baharda B.O, Balim B.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gabagan, Bhagari, Odisha 756079",
+    "area": "756035",
+    "latitude": 21.6978661,
+    "longitude": 87.35160119999999,
+    "place_id": "ChIJwXfsYQDbHDoRameiLeQ3rUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXfsYQDbHDoRameiLeQ3rUU",
+    "part_id": "part_342",
+    "crawled_at": "2026-09-20 20:47:58"
+  }
+]
