@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Kumar's clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "761041",
+    "circle": "Odisha Circle",
+    "region": "Berhampur Region",
+    "division": "Berhampur Division",
+    "major_offices": "Badakharida S.O, Arakhapur B.O, Badamahuri B.O",
+    "phone_number": "+91 94392 57091",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main road, Balarampur, Purusottampur, Odisha 761041",
+    "area": "761041",
+    "latitude": 19.5706265,
+    "longitude": 84.8610416,
+    "place_id": "ChIJa58ZgpKrIjoRRrmmcJfaMRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa58ZgpKrIjoRRrmmcJfaMRw",
+    "part_id": "part_348",
+    "crawled_at": "2026-09-20 20:38:18"
+  }
+]
