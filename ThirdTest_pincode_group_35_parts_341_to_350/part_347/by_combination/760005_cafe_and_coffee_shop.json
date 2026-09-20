@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Mehfil Berhampur",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "760005",
+    "circle": "Odisha Circle",
+    "region": "Berhampur Region",
+    "division": "Berhampur Division",
+    "major_offices": "Hillpatna S.O",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 35,
+    "address": "Haldiapadar, Ralaba, Odisha 760003",
+    "area": "Haldiapadar",
+    "latitude": 19.2800601,
+    "longitude": 84.7867065,
+    "place_id": "ChIJG41uTQBbPToRSgzbYdzV8kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG41uTQBbPToRSgzbYdzV8kQ",
+    "part_id": "part_347",
+    "crawled_at": "2026-09-20 20:41:58"
+  }
+]
